@@ -1,3 +1,4 @@
 Hello World, 
 This is a practice using Git.
 <This is a line modifed on GitHub>
+<This is a line modifed locally>
